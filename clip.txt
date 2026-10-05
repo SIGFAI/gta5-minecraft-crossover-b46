@@ -1,0 +1,6 @@
+Moments the clip must show (the demo plays them back to back, no outside commands):
+[x] 1. Minecraft zombies, skeletons and creepers appear in daylight right in front of Steve and the LSPD roadblock, and fight police.
+[x] 2. Steve fights back in survival: sword swings, red flash, hearts drop, first-person view with the hand and held item.
+[x] 3. Minecraft TNT falls on an LSPD roadblock; each block is a GTA explosion and police cars flip.
+[x] 4. A Minecraft house rises block by block on the street and GTA traffic crashes into it.
+Weak: the night mob war comes last (after the 45 s test window); the player's start can show a short unsynced moment in the first 2 s after a restart.

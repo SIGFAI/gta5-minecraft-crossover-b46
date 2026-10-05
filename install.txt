@@ -1,0 +1,1 @@
+Needs GTA V (story mode only) with ScriptHookV and ReShade, plus Minecraft Java with Fabric. Copy the package folder's GTA files into the GTA folder and the jar into Minecraft's mods folder, start both games and pick Story Mode.
